@@ -46,7 +46,7 @@ name: Aravind Vallabhaneni
 role: Full Stack Developer
 university: VIT-AP University
 degree: B.Tech Computer Science and Engineering
-cgpa: 8.1 / 10.0
+cgpa: 8.86 / 10.0
 batch: 2023 - 2027
 specialization:
   - MERN Stack Development
