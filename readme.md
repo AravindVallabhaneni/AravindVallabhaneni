@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/VIT--AP%20University-B.Tech%20CSE-0077B5?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CGPA-8.1%2F10.0-005885?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-8.86%2F10.0-005885?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Batch-2023--2027-003B5C?style=for-the-badge"/>
 </p>
 
