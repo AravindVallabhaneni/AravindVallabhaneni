@@ -184,7 +184,7 @@ open_to:
 
 | Institution | Degree | Duration | Score |
 |-------------|--------|----------|-------|
-| **VIT-AP University** | B.Tech Computer Science & Engineering | 2023 – 2027 | 8.1 / 10.0 CGPA |
+| **VIT-AP University** | B.Tech Computer Science & Engineering | 2023 – 2027 | 8.86 / 10.0 CGPA |
 | **Narayana Junior College** | Intermediate (MPC) | 2021 – 2023 | 98.1% |
 | **Bell and Bennett High School** | SSC | 2020 – 2021 | 99.5% |
 
